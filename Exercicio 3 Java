@@ -1,0 +1,9 @@
+run:
+Digite o valor do lado A: 
+33
+Digite o valor do lado B: 
+44
+Digite o valor do lado C: 
+55
+É escaleno.
+BUILD SUCCESSFUL (total time: 6 seconds)
